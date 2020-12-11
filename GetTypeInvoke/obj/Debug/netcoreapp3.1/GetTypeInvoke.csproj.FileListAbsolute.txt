@@ -1,0 +1,13 @@
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.exe
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.deps.json
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.runtimeconfig.json
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.runtimeconfig.dev.json
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.dll
+F:\ProgramLanguage\GetTypeInvoke\bin\Debug\netcoreapp3.1\GetTypeInvoke.pdb
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.csprojAssemblyReference.cache
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.AssemblyInfoInputs.cache
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.AssemblyInfo.cs
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.csproj.CoreCompileInputs.cache
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.dll
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.pdb
+F:\ProgramLanguage\GetTypeInvoke\obj\Debug\netcoreapp3.1\GetTypeInvoke.genruntimeconfig.cache
