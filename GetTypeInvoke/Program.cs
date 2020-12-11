@@ -6,6 +6,7 @@ namespace GetTypeInvoke
     {
         static void Main(string[] args)
         {
+            /*
             Object obj = new
             {
                 Name = "小明",
@@ -14,6 +15,8 @@ namespace GetTypeInvoke
 
             Console.WriteLine("Name: \t" + obj.GetType().GetProperty("Name").GetValue(obj));
             Console.WriteLine("Num: \t" + obj.GetType().GetProperty("Num").GetValue(obj));
+            */
+            ReflectionTest.test();
         }
     }
 }
