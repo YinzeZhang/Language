@@ -1,0 +1,4 @@
+﻿  main.c
+F:\ProgramLanguage\CmakeDome\main.c(4,10): warning C4013: “sleep”未定义；假设外部返回 int
+main.obj : error LNK2019: 无法解析的外部符号 sleep，函数 main 中引用了该符号
+F:\ProgramLanguage\CmakeDome\build\Debug\hello.exe : fatal error LNK1120: 1 个无法解析的外部命令
